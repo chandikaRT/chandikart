@@ -2,9 +2,10 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
-<img src ="[![roadmap.sh](https://roadmap.sh/card/tall/66795674ae5b6c417944fbc2?variant=dark)](https://roadmap.sh)" align="right"/>
-
+<br></br>
+<p align = "right">
+[![roadmap.sh](https://roadmap.sh/card/tall/66795674ae5b6c417944fbc2?variant=dark)](https://roadmap.sh)
+</p>
 <!--
 **chandikaRT/chandikart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
